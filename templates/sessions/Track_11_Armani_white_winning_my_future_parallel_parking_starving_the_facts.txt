@@ -1,0 +1,26 @@
+PROJECT: Project 35: Willy Nelson
+TRACK 11: Armani white (winning my future) {parallel parking} <starving the facts>
+ACT: Act IV: Ascent & Manifestation
+BPM: 104 | KEY: G Minor to G Major | TIME SIG: 4/4
+SAMPLE RATE: 48000 Hz | BIT DEPTH: 24-bit
+TARGET HEADROOM: -6.0 dB True Peak
+TRANSITION OUT: Mechanical tape-stop pitch drop over 2.5s dissolving into ocean surf of Track 12
+
+ARRANGEMENT MARKERS:
+  - Bar 01 [0:00]: Intro (Whistle Hook & Tire Squeals)
+  - Bar 05 [0:09]: Verse 1 (Parallel Parking at Full Speed)
+  - Bar 13 [0:27]: Hook 1 (Winning My Future)
+  - Bar 17 [0:36]: Verse 2 (Starving the Facts & Drum Mutes)
+  - Bar 25 [0:54]: Hook 2 (Full Brass Fanfare Climax)
+  - Bar 29 [1:03]: Outro (Tape-Stop Deceleration into Waves)
+
+STEM CHANNELS & BUS ROUTING:
+  Channel 01: 01_909Kick_55Hz -> Master Bus
+  Channel 02: 02_AnalogClap_Snaps -> Master Bus
+  Channel 03: 03_Shakers_Cabasa -> Master Bus
+  Channel 04: 04_LiveSlapBass -> Master Bus
+  Channel 05: 05_StaccatoHorns -> Master Bus
+  Channel 06: 06_CatchyWhistleLead -> Master Bus
+  Channel 07: 07_LeadBounceVox -> Master Bus
+  Channel 08: 08_WideGangChants -> Master Bus
+  Channel 09: 09_TireSqueal_TapeStopFX -> Master Bus

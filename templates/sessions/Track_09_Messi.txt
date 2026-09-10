@@ -1,0 +1,26 @@
+PROJECT: Project 35: Willy Nelson
+TRACK 09: Messi
+ACT: Act III: Archetypes & Absurdities
+BPM: 140 | KEY: A Minor | TIME SIG: 4/4
+SAMPLE RATE: 48000 Hz | BIT DEPTH: 24-bit
+TARGET HEADROOM: -6.0 dB True Peak
+TRANSITION OUT: Sharp golf club impact ('Crack!') cutting directly into Track 10
+
+ARRANGEMENT MARKERS:
+  - Bar 01 [0:00]: Intro (Kalimba Plucks & 140 BPM Half-Time Skip)
+  - Bar 09 [0:14]: Verse 1 (Spatial Intelligence & Tight Cuts)
+  - Bar 25 [0:41]: Hook 1 (Silent Mastery)
+  - Bar 33 [0:55]: Verse 2 (Navigating the Defense)
+  - Bar 49 [1:22]: Hook 2 (The Effortless Glide)
+  - Bar 57 [1:36]: Outro (Golf Swing Strike Foley)
+
+STEM CHANNELS & BUS ROUTING:
+  Channel 01: 01_TightKick -> Master Bus
+  Channel 02: 02_SnapSnare -> Master Bus
+  Channel 03: 03_DrillHiHatSkips -> Master Bus
+  Channel 04: 04_Gliding808_Octaves -> Master Bus
+  Channel 05: 05_KalimbaLead -> Master Bus
+  Channel 06: 06_MarimbaStaccato -> Master Bus
+  Channel 07: 07_LeadWhisperPocketVox -> Master Bus
+  Channel 08: 08_AdlibChops -> Master Bus
+  Channel 09: 09_GolfClubStrikeFX -> Master Bus

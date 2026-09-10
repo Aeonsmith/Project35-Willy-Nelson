@@ -1,0 +1,26 @@
+PROJECT: Project 35: Willy Nelson
+TRACK 07: Mac Lethal (heartbreak days)
+ACT: Act II: Street Level & Methane Sparks
+BPM: 86 | KEY: G Minor to G Major | TIME SIG: 4/4
+SAMPLE RATE: 48000 Hz | BIT DEPTH: 24-bit
+TARGET HEADROOM: -6.0 dB True Peak
+TRANSITION OUT: Cello resolution from G Minor to G Major morphing into arena crowd swell for Track 08
+
+ARRANGEMENT MARKERS:
+  - Bar 01 [0:00]: Intro (Rhodes Flutter & Room Reverb)
+  - Bar 05 [0:11]: Verse 1 (Unresolved Grief & Voicemails)
+  - Bar 13 [0:33]: Hook 1 (Heartbreak Days)
+  - Bar 17 [0:44]: Verse 2 (Stripping the Armor)
+  - Bar 25 [1:06]: Hook 2 (Emotional Bottom)
+  - Bar 29 [1:17]: Outro (Cello Resolution G Minor -> G Major)
+
+STEM CHANNELS & BUS ROUTING:
+  Channel 01: 01_LooseKick -> Master Bus
+  Channel 02: 02_WarmWoodSnare -> Master Bus
+  Channel 03: 03_SubtleHats -> Master Bus
+  Channel 04: 04_DeepSubBass -> Master Bus
+  Channel 05: 05_RhodesEPiano -> Master Bus
+  Channel 06: 06_AcousticCello -> Master Bus
+  Channel 07: 07_LeadIntimateVox -> Master Bus
+  Channel 08: 08_VoicemailSample -> Master Bus
+  Channel 09: 09_RainDecay -> Master Bus

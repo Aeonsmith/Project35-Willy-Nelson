@@ -1,0 +1,26 @@
+PROJECT: Project 35: Willy Nelson
+TRACK 08: MJ
+ACT: Act III: Archetypes & Absurdities
+BPM: 124 | KEY: G Major | TIME SIG: 4/4
+SAMPLE RATE: 48000 Hz | BIT DEPTH: 24-bit
+TARGET HEADROOM: -6.0 dB True Peak
+TRANSITION OUT: Referee whistle echo panning left-to-right into Track 09 kalimba plucks
+
+ARRANGEMENT MARKERS:
+  - Bar 01 [0:00]: Intro (Sneaker Squeaks & Arena High-Beams)
+  - Bar 09 [0:15]: Verse 1 (Game 6 Mindset)
+  - Bar 25 [0:46]: Hook 1 (Uncompromising Legacy)
+  - Bar 33 [1:01]: Verse 2 (Relentless Execution)
+  - Bar 49 [1:32]: Hook 2 (Stadium Anthem)
+  - Bar 57 [1:47]: Outro (Crowd Roar & Referee Whistle)
+
+STEM CHANNELS & BUS ROUTING:
+  Channel 01: 01_StadiumKick -> Master Bus
+  Channel 02: 02_SnareClapStack -> Master Bus
+  Channel 03: 03_CrispHats -> Master Bus
+  Channel 04: 04_WideStereoBass -> Master Bus
+  Channel 05: 05_BrassFanfareHorns -> Master Bus
+  Channel 06: 06_AnthemicChoirChops -> Master Bus
+  Channel 07: 07_LeadPercussiveVox -> Master Bus
+  Channel 08: 08_GangChants -> Master Bus
+  Channel 09: 09_ArenaCrowdFX -> Master Bus

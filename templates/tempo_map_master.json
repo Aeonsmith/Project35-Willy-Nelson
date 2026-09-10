@@ -1,0 +1,271 @@
+{
+  "project_title": "Project 35: Willy Nelson",
+  "subtitle": "9/11 Master Mixtape Rendition",
+  "sample_rate_hz": 48000,
+  "bit_depth": 24,
+  "headroom_target_db": -6.0,
+  "tracks": [
+    {
+      "track_number": "01",
+      "title": "Resentful",
+      "act": "Act I: The Descent & The Mirror",
+      "bpm": 130,
+      "key": "C Minor",
+      "time_signature": "4/4",
+      "duration_seconds": 185,
+      "arrangement_markers": [
+        {"name": "Intro (Sub Drones & Cold Hi-Hats)", "bar": 1, "time": "0:00"},
+        {"name": "Verse 1 (Skeletal Trap Bounce)", "bar": 9, "time": "0:15"},
+        {"name": "Hook 1 (Grievance Reckoning)", "bar": 25, "time": "0:44"},
+        {"name": "Verse 2 (Double G Arrival)", "bar": 33, "time": "0:59"},
+        {"name": "Hook 2 (Sub-Bass Swell)", "bar": 49, "time": "1:28"},
+        {"name": "Outro / Transition to Savage Ga$p", "bar": 57, "time": "1:43"}
+      ],
+      "stem_channels": [
+        "01_Kick", "02_Snare", "03_HiHats", "04_Percs", "05_808_Sub",
+        "06_DarkPad", "07_ReverseChords", "08_LeadVox", "09_PitchedVoxDouble", "10_FX_Risers"
+      ],
+      "transition_out": "Reverse cymbal swell into Track 02 gate opening"
+    },
+    {
+      "track_number": "02",
+      "title": "Savage Ga$p",
+      "act": "Act I: The Descent & The Mirror",
+      "bpm": 128,
+      "key": "D Minor",
+      "time_signature": "4/4",
+      "duration_seconds": 195,
+      "arrangement_markers": [
+        {"name": "Intro (Hela Gate Chants)", "bar": 1, "time": "0:00"},
+        {"name": "Verse 1 (Underworld Initiation)", "bar": 9, "time": "0:15"},
+        {"name": "Hook 1 (Dark Ambrosia)", "bar": 25, "time": "0:45"},
+        {"name": "Verse 2 (Gothic Cadence)", "bar": 33, "time": "1:00"},
+        {"name": "Hook 2 (Full Drum Drop)", "bar": 49, "time": "1:30"},
+        {"name": "Outro (Subterranean Descent)", "bar": 57, "time": "1:45"}
+      ],
+      "stem_channels": [
+        "01_Kick", "02_Clap", "03_DrillHats", "04_Sub808", "05_GothicChoirChops",
+        "06_DistortedPluck", "07_LeadVox", "08_WhisperAdlibs", "09_UnderworldFX"
+      ],
+      "transition_out": "Sub-drop decay into Chris Brown fanfare stabs"
+    },
+    {
+      "track_number": "03",
+      "title": "Chris Brown (King)",
+      "act": "Act I: The Descent & The Mirror",
+      "bpm": 135,
+      "key": "F Minor",
+      "time_signature": "4/4",
+      "duration_seconds": 210,
+      "arrangement_markers": [
+        {"name": "Intro (Crown Stabs & Fanfare)", "bar": 1, "time": "0:00"},
+        {"name": "Verse 1 (Illusion of the Throne)", "bar": 9, "time": "0:14"},
+        {"name": "Hook 1 (King's Dilemma)", "bar": 25, "time": "0:42"},
+        {"name": "Verse 2 (Burden of Royalty)", "bar": 33, "time": "0:56"},
+        {"name": "Hook 2 (Anthemic Stack)", "bar": 49, "time": "1:24"},
+        {"name": "Outro (Crown Fractures)", "bar": 57, "time": "1:38"}
+      ],
+      "stem_channels": [
+        "01_Kick_909", "02_LayeredSnare", "03_RollingHats", "04_Saturated808", "05_BrassStabs",
+        "06_GrandPianoChords", "07_LeadVox", "08_StereoBackingVox", "09_CrownFX"
+      ],
+      "transition_out": "Sudden stop into Clejan solo acoustic violin"
+    },
+    {
+      "track_number": "04",
+      "title": "Clejan 11 (mirror)",
+      "act": "Act I: The Descent & The Mirror",
+      "bpm": 132,
+      "key": "G Minor",
+      "time_signature": "4/4",
+      "duration_seconds": 170,
+      "arrangement_markers": [
+        {"name": "Intro (Solo Acoustic Trap Violin)", "bar": 1, "time": "0:00"},
+        {"name": "Movement I (Mirror Reflection / 808s)", "bar": 9, "time": "0:14"},
+        {"name": "Movement II (Violin Cadenza)", "bar": 25, "time": "0:43"},
+        {"name": "Climax (Violin Ostinato + Rapid Trap Rolls)", "bar": 41, "time": "1:12"},
+        {"name": "Outro / Transition to Act II (Rain & Car Rev)", "bar": 49, "time": "1:26"}
+      ],
+      "stem_channels": [
+        "01_SoloViolin_MicL", "02_SoloViolin_MicR", "03_Sub808_Glide", "04_TrapPercussion",
+        "05_ReverseViolinSwirl", "06_RainFoley", "07_CarIgnitionFX"
+      ],
+      "transition_out": "Solo violin decay directly into rain foley and car ignition for Track 05"
+    },
+    {
+      "track_number": "05",
+      "title": "A.Rob (guy who sold me the PS5)",
+      "act": "Act II: Street Level & Methane Sparks",
+      "bpm": 90,
+      "key": "A Minor",
+      "time_signature": "4/4",
+      "duration_seconds": 200,
+      "arrangement_markers": [
+        {"name": "Intro (Parking Lot Foley & PS5 Chime)", "bar": 1, "time": "0:00"},
+        {"name": "Verse 1 (The Micro-Economy)", "bar": 5, "time": "0:11"},
+        {"name": "Hook 1 (Exchange of Value)", "bar": 13, "time": "0:32"},
+        {"name": "Verse 2 (Checking Perimeters)", "bar": 17, "time": "0:43"},
+        {"name": "Hook 2 (Hustle Certified)", "bar": 25, "time": "1:04"},
+        {"name": "Outro (Trunk Slam & Siren)", "bar": 29, "time": "1:15"}
+      ],
+      "stem_channels": [
+        "01_ChoppedBreakKick", "02_GrittySnare", "03_VinylHiHats", "04_MoogBass",
+        "05_MutedAcousticGuitar", "06_PS5ChimeSample", "07_LeadVox", "08_TelephoneAdlibs", "09_StreetAmbience"
+      ],
+      "transition_out": "Car acceleration into industrial hiss for Track 06"
+    },
+    {
+      "track_number": "06",
+      "title": "Token (general) {methane gas}",
+      "act": "Act II: Street Level & Methane Sparks",
+      "bpm": 150,
+      "key": "E Minor",
+      "time_signature": "4/4",
+      "duration_seconds": 180,
+      "arrangement_markers": [
+        {"name": "Intro (Gas Valve Hiss & Alarm Stabs)", "bar": 1, "time": "0:00"},
+        {"name": "Verse 1 (Rapid Technical Cadence)", "bar": 9, "time": "0:13"},
+        {"name": "Hook 1 (The Methane Room)", "bar": 25, "time": "0:38"},
+        {"name": "Verse 2 (General Commands Under Pressure)", "bar": 33, "time": "0:51"},
+        {"name": "Hook 2 (Combustible Drop)", "bar": 49, "time": "1:16"},
+        {"name": "Outro (Subsonic Detonation & Silence)", "bar": 57, "time": "1:29"}
+      ],
+      "stem_channels": [
+        "01_PunchKick", "02_CrispClap", "03_32ndTrapHats", "04_ClippedDistorted808",
+        "05_IndustrialSirenLead", "06_RapidSynthArp", "07_LeadFastVox", "08_PannedChants", "09_MethaneHissFX"
+      ],
+      "transition_out": "Subsonic implosion cutting abruptly to hollow reverb for Track 07"
+    },
+    {
+      "track_number": "07",
+      "title": "Mac Lethal (heartbreak days)",
+      "act": "Act II: Street Level & Methane Sparks",
+      "bpm": 86,
+      "key": "G Minor to G Major",
+      "time_signature": "4/4",
+      "duration_seconds": 220,
+      "arrangement_markers": [
+        {"name": "Intro (Rhodes Flutter & Room Reverb)", "bar": 1, "time": "0:00"},
+        {"name": "Verse 1 (Unresolved Grief & Voicemails)", "bar": 5, "time": "0:11"},
+        {"name": "Hook 1 (Heartbreak Days)", "bar": 13, "time": "0:33"},
+        {"name": "Verse 2 (Stripping the Armor)", "bar": 17, "time": "0:44"},
+        {"name": "Hook 2 (Emotional Bottom)", "bar": 25, "time": "1:06"},
+        {"name": "Outro (Cello Resolution G Minor -> G Major)", "bar": 29, "time": "1:17"}
+      ],
+      "stem_channels": [
+        "01_LooseKick", "02_WarmWoodSnare", "03_SubtleHats", "04_DeepSubBass",
+        "05_RhodesEPiano", "06_AcousticCello", "07_LeadIntimateVox", "08_VoicemailSample", "09_RainDecay"
+      ],
+      "transition_out": "Cello resolution from G Minor to G Major morphing into arena crowd swell for Track 08"
+    },
+    {
+      "track_number": "08",
+      "title": "MJ",
+      "act": "Act III: Archetypes & Absurdities",
+      "bpm": 124,
+      "key": "G Major",
+      "time_signature": "4/4",
+      "duration_seconds": 210,
+      "arrangement_markers": [
+        {"name": "Intro (Sneaker Squeaks & Arena High-Beams)", "bar": 1, "time": "0:00"},
+        {"name": "Verse 1 (Game 6 Mindset)", "bar": 9, "time": "0:15"},
+        {"name": "Hook 1 (Uncompromising Legacy)", "bar": 25, "time": "0:46"},
+        {"name": "Verse 2 (Relentless Execution)", "bar": 33, "time": "1:01"},
+        {"name": "Hook 2 (Stadium Anthem)", "bar": 49, "time": "1:32"},
+        {"name": "Outro (Crowd Roar & Referee Whistle)", "bar": 57, "time": "1:47"}
+      ],
+      "stem_channels": [
+        "01_StadiumKick", "02_SnareClapStack", "03_CrispHats", "04_WideStereoBass",
+        "05_BrassFanfareHorns", "06_AnthemicChoirChops", "07_LeadPercussiveVox", "08_GangChants", "09_ArenaCrowdFX"
+      ],
+      "transition_out": "Referee whistle echo panning left-to-right into Track 09 kalimba plucks"
+    },
+    {
+      "track_number": "09",
+      "title": "Messi",
+      "act": "Act III: Archetypes & Absurdities",
+      "bpm": 140,
+      "key": "A Minor",
+      "time_signature": "4/4",
+      "duration_seconds": 190,
+      "arrangement_markers": [
+        {"name": "Intro (Kalimba Plucks & 140 BPM Half-Time Skip)", "bar": 1, "time": "0:00"},
+        {"name": "Verse 1 (Spatial Intelligence & Tight Cuts)", "bar": 9, "time": "0:14"},
+        {"name": "Hook 1 (Silent Mastery)", "bar": 25, "time": "0:41"},
+        {"name": "Verse 2 (Navigating the Defense)", "bar": 33, "time": "0:55"},
+        {"name": "Hook 2 (The Effortless Glide)", "bar": 49, "time": "1:22"},
+        {"name": "Outro (Golf Swing Strike Foley)", "bar": 57, "time": "1:36"}
+      ],
+      "stem_channels": [
+        "01_TightKick", "02_SnapSnare", "03_DrillHiHatSkips", "04_Gliding808_Octaves",
+        "05_KalimbaLead", "06_MarimbaStaccato", "07_LeadWhisperPocketVox", "08_AdlibChops", "09_GolfClubStrikeFX"
+      ],
+      "transition_out": "Sharp golf club impact ('Crack!') cutting directly into Track 10"
+    },
+    {
+      "track_number": "10",
+      "title": "(Don’t play golf) {got two golf planes}",
+      "act": "Act III: Archetypes & Absurdities",
+      "bpm": 126,
+      "key": "B-flat Major",
+      "time_signature": "4/4",
+      "duration_seconds": 205,
+      "arrangement_markers": [
+        {"name": "Intro (Gramophone Strings & Satirical Dialogue)", "bar": 1, "time": "0:00"},
+        {"name": "Verse 1 (Mocking the Country Club)", "bar": 9, "time": "0:15"},
+        {"name": "Hook 1 (Two Golf Planes in the Hangar)", "bar": 25, "time": "0:45"},
+        {"name": "Verse 2 (Surreal Luxury Flex)", "bar": 33, "time": "1:00"},
+        {"name": "Hook 2 (Maximum Chaos Stadium Chant)", "bar": 49, "time": "1:30"},
+        {"name": "Outro (Twin Jet Turbines Spooling Up)", "bar": 57, "time": "1:45"}
+      ],
+      "stem_channels": [
+        "01_PunchyGrimeKick", "02_RimClapStack", "03_SyncopatedHats", "04_BounceSynthBass",
+        "05_GramophoneChops", "06_SatiricalStabs", "07_TheatricalLeadVox", "08_BritishAccentAdlibs", "09_JetEngineTurbineFX"
+      ],
+      "transition_out": "Twin jet turbine flyover sweeping high-pass filter to 18 kHz, dropping at 0:00 on Track 11"
+    },
+    {
+      "track_number": "11",
+      "title": "Armani white (winning my future) {parallel parking} <starving the facts>",
+      "act": "Act IV: Ascent & Manifestation",
+      "bpm": 104,
+      "key": "G Minor to G Major",
+      "time_signature": "4/4",
+      "duration_seconds": 165,
+      "arrangement_markers": [
+        {"name": "Intro (Whistle Hook & Tire Squeals)", "bar": 1, "time": "0:00"},
+        {"name": "Verse 1 (Parallel Parking at Full Speed)", "bar": 5, "time": "0:09"},
+        {"name": "Hook 1 (Winning My Future)", "bar": 13, "time": "0:27"},
+        {"name": "Verse 2 (Starving the Facts & Drum Mutes)", "bar": 17, "time": "0:36"},
+        {"name": "Hook 2 (Full Brass Fanfare Climax)", "bar": 25, "time": "0:54"},
+        {"name": "Outro (Tape-Stop Deceleration into Waves)", "bar": 29, "time": "1:03"}
+      ],
+      "stem_channels": [
+        "01_909Kick_55Hz", "02_AnalogClap_Snaps", "03_Shakers_Cabasa", "04_LiveSlapBass",
+        "05_StaccatoHorns", "06_CatchyWhistleLead", "07_LeadBounceVox", "08_WideGangChants", "09_TireSqueal_TapeStopFX"
+      ],
+      "transition_out": "Mechanical tape-stop pitch drop over 2.5s dissolving into ocean surf of Track 12"
+    },
+    {
+      "track_number": "12",
+      "title": "Outro: Jamaica",
+      "act": "Act IV: Ascent & Manifestation",
+      "bpm": 76,
+      "key": "G Major",
+      "time_signature": "4/4",
+      "duration_seconds": 180,
+      "arrangement_markers": [
+        {"name": "Intro (Binaural Ocean Surf & Steelpan Chords)", "bar": 1, "time": "0:00"},
+        {"name": "The Groove Part I (One-Drop Bass & Spoken Reflections)", "bar": 5, "time": "0:13"},
+        {"name": "The Ascent Chant (Melodic Vocal Harmonies & Horns)", "bar": 13, "time": "0:38"},
+        {"name": "The Infinite Dub (Space Echo Feedback Tails)", "bar": 21, "time": "1:03"},
+        {"name": "Final Fade (Ocean Surf Swell into Silence)", "bar": 29, "time": "1:28"}
+      ],
+      "stem_channels": [
+        "01_OneDropKick_Beat3", "02_WoodCrossStickSnare", "03_OpenHiHats_Tambourine", "04_FenderPBass_Flatwounds",
+        "05_HammondB3Organ_Bubble", "06_StratGuitarSkank", "07_SteelpanKalimbaChords", "08_LeadSpokenMelodicVox", "09_DubSiren_OceanSurfFX"
+      ],
+      "transition_out": "Master project completion — fade to ocean surf silence"
+    }
+  ]
+}

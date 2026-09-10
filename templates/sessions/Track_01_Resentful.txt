@@ -1,0 +1,27 @@
+PROJECT: Project 35: Willy Nelson
+TRACK 01: Resentful
+ACT: Act I: The Descent & The Mirror
+BPM: 130 | KEY: C Minor | TIME SIG: 4/4
+SAMPLE RATE: 48000 Hz | BIT DEPTH: 24-bit
+TARGET HEADROOM: -6.0 dB True Peak
+TRANSITION OUT: Reverse cymbal swell into Track 02 gate opening
+
+ARRANGEMENT MARKERS:
+  - Bar 01 [0:00]: Intro (Sub Drones & Cold Hi-Hats)
+  - Bar 09 [0:15]: Verse 1 (Skeletal Trap Bounce)
+  - Bar 25 [0:44]: Hook 1 (Grievance Reckoning)
+  - Bar 33 [0:59]: Verse 2 (Double G Arrival)
+  - Bar 49 [1:28]: Hook 2 (Sub-Bass Swell)
+  - Bar 57 [1:43]: Outro / Transition to Savage Ga$p
+
+STEM CHANNELS & BUS ROUTING:
+  Channel 01: 01_Kick -> Master Bus
+  Channel 02: 02_Snare -> Master Bus
+  Channel 03: 03_HiHats -> Master Bus
+  Channel 04: 04_Percs -> Master Bus
+  Channel 05: 05_808_Sub -> Master Bus
+  Channel 06: 06_DarkPad -> Master Bus
+  Channel 07: 07_ReverseChords -> Master Bus
+  Channel 08: 08_LeadVox -> Master Bus
+  Channel 09: 09_PitchedVoxDouble -> Master Bus
+  Channel 10: 10_FX_Risers -> Master Bus
