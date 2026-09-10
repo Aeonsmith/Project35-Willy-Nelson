@@ -3,7 +3,7 @@
 **Project Title:** Project 35: Willy Nelson (9/11 Master Mixtape Rendition)  
 **Project Lead:** Project Manager / Lead Producer  
 **Status:** In Progress — Phase 1 Active  
-**Overall Completion:** 6% (1 / 17 Tasks Completed)  
+**Overall Completion:** 12% (2 / 17 Tasks Completed)  
 **Target Global Release:** Week 16  
 **Last Updated:** September 10, 2026  
 
@@ -18,7 +18,7 @@
 
 ```
 OVERALL TIMELINE PROGRESSION
-[■□□□□□□□□□□□□□□□□□□□] 6% COMPLETE
+[■■□□□□□□□□□□□□□□□□□□] 12% COMPLETE
 Phase 1: Pre-Production     [IN PROGRESS]
 Phase 2: Tracking & Audio   [QUEUED]
 Phase 3: Post-Production    [QUEUED]
@@ -39,14 +39,14 @@ Phase 4: Release & Promo    [QUEUED]
   * *Dependencies:* None
 
 * **[PRE-02] Foley & Sample Sound Design Curation**
-  * *Status:* IN PROGRESS
+  * *Status:* COMPLETED (12 24-bit/48kHz WAV assets synthesized in /sound_design/assets & foley_manifest.json)
   * *Owner:* Sound Designer
   * *Target Timeline:* Weeks 1–3
   * *Deliverable:* Foley library (PS5 startup, jet sweep, ocean surf)
   * *Dependencies:* PRE-01
 
 * **[PRE-03] Scratch Vocals & Cadence Demos**
-  * *Status:* PENDING
+  * *Status:* IN PROGRESS
   * *Owner:* Lead Artist
   * *Target Timeline:* Weeks 2–3
   * *Deliverable:* Rough guide tracks for Acts I–IV
