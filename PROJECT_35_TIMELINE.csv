@@ -1,7 +1,7 @@
 Phase,Task_ID,Task_Name,Target_Timeline,Deliverable,Owner_Role,Status,Dependencies
 Phase 1: Pre-Production,PRE-01,DAW Session Templates & Tempo Map,Weeks 1-2,12 DAW project files with BPM and key grids,Lead Producer,Completed,None
 Phase 1: Pre-Production,PRE-02,Foley & Sample Sound Design Curation,Weeks 1-3,Foley library (PS5 sounds, jet sweep, ocean surf),Sound Designer,Completed,PRE-01
-Phase 1: Pre-Production,PRE-03,Scratch Vocals & Cadence Demos,Weeks 2-3,Rough guide tracks for Acts I-IV,Lead Artist,Pending,PRE-01
+Phase 1: Pre-Production,PRE-03,Scratch Vocals & Cadence Demos,Weeks 2-3,Rough guide tracks for Acts I-IV,Lead Artist,Completed,PRE-01
 Phase 2: Tracking & Recording,REC-01,Act I Classical Violin & Dark Trap Stems,Weeks 4-5,Live violin multi-tracks & 808 stems,Session Musician / Producer,Pending,PRE-03
 Phase 2: Tracking & Recording,REC-02,Act II Boom-Bap & Guitar Tracking,Weeks 4-5,Acoustic guitar loops & chopped break stems,Recording Engineer,Pending,PRE-03
 Phase 2: Tracking & Recording,REC-03,Act III Stadium Brass & Drum Layering,Weeks 5-6,Live horn section stems & UK drill drums,Brass Arranger,Pending,PRE-03

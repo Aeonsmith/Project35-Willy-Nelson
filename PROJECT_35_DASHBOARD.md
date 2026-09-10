@@ -3,7 +3,7 @@
 **Project Title:** Project 35: Willy Nelson (9/11 Master Mixtape Rendition)  
 **Project Lead:** Project Manager / Lead Producer  
 **Status:** In Progress — Phase 1 Active  
-**Overall Completion:** 12% (2 / 17 Tasks Completed)  
+**Overall Completion:** 18% (3 / 17 Tasks Completed)  
 **Target Global Release:** Week 16  
 **Last Updated:** September 10, 2026  
 
@@ -14,13 +14,13 @@
 * **Project Health:** GREEN (On Schedule)
 * **Budget Health:** GREEN (Within Allocated Thresholds)
 * **Technical Risk Level:** LOW
-* **Active Phase:** Phase 1 (Pre-Production & Sound Design)
+* **Active Phase:** Phase 2 (Tracking & Recording)
 
 ```
 OVERALL TIMELINE PROGRESSION
-[■■□□□□□□□□□□□□□□□□□□] 12% COMPLETE
-Phase 1: Pre-Production     [IN PROGRESS]
-Phase 2: Tracking & Audio   [QUEUED]
+[■■■□□□□□□□□□□□□□□□□□] 18% COMPLETE
+Phase 1: Pre-Production     [COMPLETED]
+Phase 2: Tracking & Audio   [IN PROGRESS]
 Phase 3: Post-Production    [QUEUED]
 Phase 4: Release & Promo    [QUEUED]
 ```
@@ -29,7 +29,7 @@ Phase 4: Release & Promo    [QUEUED]
 
 ## 2. Master Task Tracking Board
 
-### Phase 1: Pre-Production & Demos (Weeks 1–3)
+### Phase 1: Pre-Production & Demos (Weeks 1–3) — COMPLETED
 
 * **[PRE-01] DAW Session Templates & Tempo Map**
   * *Status:* COMPLETED (Templates generated in /templates/sessions & tempo_map_master.json)
@@ -46,7 +46,7 @@ Phase 4: Release & Promo    [QUEUED]
   * *Dependencies:* PRE-01
 
 * **[PRE-03] Scratch Vocals & Cadence Demos**
-  * *Status:* IN PROGRESS
+  * *Status:* COMPLETED (Full 12-track lyric book in /lyrics/CADENCE_MANUAL.md & 12 24-bit audio guide stems in /lyrics/scratch_demos)
   * *Owner:* Lead Artist
   * *Target Timeline:* Weeks 2–3
   * *Deliverable:* Rough guide tracks for Acts I–IV
@@ -54,10 +54,10 @@ Phase 4: Release & Promo    [QUEUED]
 
 ---
 
-### Phase 2: Tracking & Recording (Weeks 4–6)
+### Phase 2: Tracking & Recording (Weeks 4–6) — ACTIVE
 
 * **[REC-01] Act I Classical Violin & Dark Trap Stems**
-  * *Status:* QUEUED
+  * *Status:* IN PROGRESS
   * *Owner:* Session Musician / Producer
   * *Target Timeline:* Weeks 4–5
   * *Deliverable:* Live violin multi-tracks & 808 stems
