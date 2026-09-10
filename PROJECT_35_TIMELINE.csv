@@ -1,0 +1,18 @@
+Phase,Task_ID,Task_Name,Target_Timeline,Deliverable,Owner_Role,Status,Dependencies
+Phase 1: Pre-Production,PRE-01,DAW Session Templates & Tempo Map,Weeks 1-2,12 DAW project files with BPM and key grids,Lead Producer,Pending,None
+Phase 1: Pre-Production,PRE-02,Foley & Sample Sound Design Curation,Weeks 1-3,Foley library (PS5 sounds, jet sweep, ocean surf),Sound Designer,Pending,PRE-01
+Phase 1: Pre-Production,PRE-03,Scratch Vocals & Cadence Demos,Weeks 2-3,Rough guide tracks for Acts I-IV,Lead Artist,Pending,PRE-01
+Phase 2: Tracking & Recording,REC-01,Act I Classical Violin & Dark Trap Stems,Weeks 4-5,Live violin multi-tracks & 808 stems,Session Musician / Producer,Pending,PRE-03
+Phase 2: Tracking & Recording,REC-02,Act II Boom-Bap & Guitar Tracking,Weeks 4-5,Acoustic guitar loops & chopped break stems,Recording Engineer,Pending,PRE-03
+Phase 2: Tracking & Recording,REC-03,Act III Stadium Brass & Drum Layering,Weeks 5-6,Live horn section stems & UK drill drums,Brass Arranger,Pending,PRE-03
+Phase 2: Tracking & Recording,REC-04,Act IV Slap Bass & Reggae One-Drop Recording,Weeks 5-6,Fender P-Bass, B3 Organ, & steelpan stems,Session Musician,Pending,PRE-03
+Phase 2: Tracking & Recording,REC-05,Final Lead & Feature Vocal Tracking,Weeks 5-6,Edited & tuned dry lead vocals for all 12 tracks,Vocal Producer / Engineer,Pending,REC-01, REC-02, REC-03, REC-04
+Phase 3: Post-Production,POST-01,Stem Balancing & Dynamic Calibration,Week 7,Mix sessions with EQ pocketing & compression,Mixing Engineer,Pending,REC-05
+Phase 3: Post-Production,POST-02,Gapless Inter-Act Transition Automation,Weeks 7-8,Continuous transition renders (04->05, 07->08, 10->11, 11->12),Mixing Engineer,Pending,POST-01
+Phase 3: Post-Production,POST-03,Mastering & LUFS Calibration,Week 8,DDP & 24-bit/48kHz Master WAV files (Standard & Deluxe mix),Mastering Engineer,Pending,POST-02
+Phase 4: Distribution & Marketing,MKT-01,Metadata & ISRC Pre-allocation,Week 8,Persistent ISRC registry & distributor delivery,Project Manager,Pending,POST-03
+Phase 4: Distribution & Marketing,MKT-02,Subterranean Teaser Campaign Launch,Weeks 9-10,15s video teasers & encrypted landing page,Creative Director,Pending,MKT-01
+Phase 4: Distribution & Marketing,MKT-03,Lead Single Drop (Armani White),Week 12,DSP release & official music video premiere,Marketing Lead,Pending,MKT-02
+Phase 4: Distribution & Marketing,MKT-04,Satirical Single Drop (Don't Play Golf),Week 14,DSP release & satirical video campaign,Marketing Lead,Pending,MKT-03
+Phase 4: Distribution & Marketing,MKT-05,Full Mixtape Global Release & 42-Min Visualizer,Week 16,12-track album drop & continuous YouTube premiere,Distribution Lead,Pending,MKT-04
+Phase 4: Distribution & Marketing,MKT-06,Jamaica Dub Session & Production Breakdown,Weeks 18-20,Extended dub release & studio breakdown featurette,Content Producer,Pending,MKT-05
