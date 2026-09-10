@@ -1,0 +1,45 @@
+{
+  "project": "Project 35: Willy Nelson",
+  "act": "Act II: Street Level & Methane Sparks",
+  "sample_rate_hz": 48000,
+  "bit_depth": 24,
+  "headroom_target_db": -6.0,
+  "tracks": [
+    {
+      "track_id": "05",
+      "track_name": "A_Rob_guy_who_sold_me_the_PS5",
+      "bpm": 90,
+      "key": "A Minor",
+      "stems": [
+        {"name": "05_ARob_Stem_ChoppedBreakKick.wav", "type": "Drums (Kick)", "profile": "90s SP-1200 12-bit Vinyl Break Kick", "pan": 0},
+        {"name": "05_ARob_Stem_GrittySnareVinyl.wav", "type": "Drums (Snare/Hats)", "profile": "Gritty Vinyl Snare + Unquantized Hats", "pan": 0},
+        {"name": "05_ARob_Stem_MoogBass_AMinor.wav", "type": "Bass", "target_freq_hz": 55.0, "pan": 0},
+        {"name": "05_ARob_Stem_MutedAcousticGuitar.wav", "type": "Acoustic Guitar", "mic": "Shure SM81 Close Mic", "pan": -25}
+      ]
+    },
+    {
+      "track_id": "06",
+      "track_name": "Token_general_methane_gas",
+      "bpm": 150,
+      "key": "E Minor",
+      "stems": [
+        {"name": "06_Token_Stem_PunchKick_32ndHats.wav", "type": "Drums", "pattern": "Fast Double-Time Trap Kick + 32nd Hat Rolls", "pan": 0},
+        {"name": "06_Token_Stem_ClippedDistorted808.wav", "type": "Sub Bass", "target_freq_hz": 41.2, "pan": 0},
+        {"name": "06_Token_Stem_IndustrialSirenLead.wav", "type": "Lead Synth", "profile": "Resonant High-Pass Screamer", "pan": 0},
+        {"name": "06_Token_Stem_RapidSynthArp_EMinor.wav", "type": "Synth Arp", "rate": "1/16th Triplets", "pan": 35}
+      ]
+    },
+    {
+      "track_id": "07",
+      "track_name": "Mac_Lethal_heartbreak_days",
+      "bpm": 86,
+      "key": "G Minor to G Major",
+      "stems": [
+        {"name": "07_MacLethal_Stem_LooseKickWoodSnare.wav", "type": "Drums", "profile": "Acoustic Warm Studio Kit (Low Velocity)", "pan": 0},
+        {"name": "07_MacLethal_Stem_DeepSubBass_GMinor.wav", "type": "Sub Bass", "target_freq_hz": 49.0, "pan": 0},
+        {"name": "07_MacLethal_Stem_RhodesEPiano.wav", "type": "Keys", "profile": "Fender Rhodes Mark I with Stereo Tremolo", "pan": 0},
+        {"name": "07_MacLethal_Stem_AcousticCello_GMinorToMajor.wav", "type": "Strings", "progression": "Gm9 -> Ebmaj7 -> Cm7 -> Gmaj7 Resolution", "pan": 20}
+      ]
+    }
+  ]
+}

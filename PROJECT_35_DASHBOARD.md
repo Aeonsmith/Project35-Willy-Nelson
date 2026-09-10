@@ -3,7 +3,7 @@
 **Project Title:** Project 35: Willy Nelson (9/11 Master Mixtape Rendition)  
 **Project Lead:** Project Manager / Lead Producer  
 **Status:** In Progress — Phase 1 Active  
-**Overall Completion:** 24% (4 / 17 Tasks Completed)  
+**Overall Completion:** 29% (5 / 17 Tasks Completed)  
 **Target Global Release:** Week 16  
 **Last Updated:** September 10, 2026  
 
@@ -18,7 +18,7 @@
 
 ```
 OVERALL TIMELINE PROGRESSION
-[■■■■□□□□□□□□□□□□□□□□] 24% COMPLETE
+[■■■■■□□□□□□□□□□□□□□□] 29% COMPLETE
 Phase 1: Pre-Production     [COMPLETED]
 Phase 2: Tracking & Audio   [IN PROGRESS]
 Phase 3: Post-Production    [QUEUED]
@@ -64,14 +64,14 @@ Phase 4: Release & Promo    [QUEUED]
   * *Dependencies:* PRE-03
 
 * **[REC-02] Act II Boom-Bap & Guitar Tracking**
-  * *Status:* IN PROGRESS
+  * *Status:* COMPLETED (12 24-bit/48kHz multi-track audio stems rendered in /stems/act_2/audio & act_2_stems_manifest.json)
   * *Owner:* Recording Engineer
   * *Target Timeline:* Weeks 4–5
   * *Deliverable:* Acoustic guitar loops & chopped break stems
   * *Dependencies:* PRE-03
 
 * **[REC-03] Act III Stadium Brass & Drum Layering**
-  * *Status:* QUEUED
+  * *Status:* IN PROGRESS
   * *Owner:* Brass Arranger
   * *Target Timeline:* Weeks 5–6
   * *Deliverable:* Live horn section stems & UK drill drums
