@@ -1,0 +1,26 @@
+PROJECT: Project 35: Willy Nelson
+TRACK 05: A.Rob (guy who sold me the PS5)
+ACT: Act II: Street Level & Methane Sparks
+BPM: 90 | KEY: A Minor | TIME SIG: 4/4
+SAMPLE RATE: 48000 Hz | BIT DEPTH: 24-bit
+TARGET HEADROOM: -6.0 dB True Peak
+TRANSITION OUT: Car acceleration into industrial hiss for Track 06
+
+ARRANGEMENT MARKERS:
+  - Bar 01 [0:00]: Intro (Parking Lot Foley & PS5 Chime)
+  - Bar 05 [0:11]: Verse 1 (The Micro-Economy)
+  - Bar 13 [0:32]: Hook 1 (Exchange of Value)
+  - Bar 17 [0:43]: Verse 2 (Checking Perimeters)
+  - Bar 25 [1:04]: Hook 2 (Hustle Certified)
+  - Bar 29 [1:15]: Outro (Trunk Slam & Siren)
+
+STEM CHANNELS & BUS ROUTING:
+  Channel 01: 01_ChoppedBreakKick -> Master Bus
+  Channel 02: 02_GrittySnare -> Master Bus
+  Channel 03: 03_VinylHiHats -> Master Bus
+  Channel 04: 04_MoogBass -> Master Bus
+  Channel 05: 05_MutedAcousticGuitar -> Master Bus
+  Channel 06: 06_PS5ChimeSample -> Master Bus
+  Channel 07: 07_LeadVox -> Master Bus
+  Channel 08: 08_TelephoneAdlibs -> Master Bus
+  Channel 09: 09_StreetAmbience -> Master Bus

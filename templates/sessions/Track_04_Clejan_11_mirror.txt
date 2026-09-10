@@ -1,0 +1,23 @@
+PROJECT: Project 35: Willy Nelson
+TRACK 04: Clejan 11 (mirror)
+ACT: Act I: The Descent & The Mirror
+BPM: 132 | KEY: G Minor | TIME SIG: 4/4
+SAMPLE RATE: 48000 Hz | BIT DEPTH: 24-bit
+TARGET HEADROOM: -6.0 dB True Peak
+TRANSITION OUT: Solo violin decay directly into rain foley and car ignition for Track 05
+
+ARRANGEMENT MARKERS:
+  - Bar 01 [0:00]: Intro (Solo Acoustic Trap Violin)
+  - Bar 09 [0:14]: Movement I (Mirror Reflection / 808s)
+  - Bar 25 [0:43]: Movement II (Violin Cadenza)
+  - Bar 41 [1:12]: Climax (Violin Ostinato + Rapid Trap Rolls)
+  - Bar 49 [1:26]: Outro / Transition to Act II (Rain & Car Rev)
+
+STEM CHANNELS & BUS ROUTING:
+  Channel 01: 01_SoloViolin_MicL -> Master Bus
+  Channel 02: 02_SoloViolin_MicR -> Master Bus
+  Channel 03: 03_Sub808_Glide -> Master Bus
+  Channel 04: 04_TrapPercussion -> Master Bus
+  Channel 05: 05_ReverseViolinSwirl -> Master Bus
+  Channel 06: 06_RainFoley -> Master Bus
+  Channel 07: 07_CarIgnitionFX -> Master Bus

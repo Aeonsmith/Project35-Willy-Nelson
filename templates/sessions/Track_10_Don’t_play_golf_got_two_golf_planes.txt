@@ -1,0 +1,26 @@
+PROJECT: Project 35: Willy Nelson
+TRACK 10: (Don’t play golf) {got two golf planes}
+ACT: Act III: Archetypes & Absurdities
+BPM: 126 | KEY: B-flat Major | TIME SIG: 4/4
+SAMPLE RATE: 48000 Hz | BIT DEPTH: 24-bit
+TARGET HEADROOM: -6.0 dB True Peak
+TRANSITION OUT: Twin jet turbine flyover sweeping high-pass filter to 18 kHz, dropping at 0:00 on Track 11
+
+ARRANGEMENT MARKERS:
+  - Bar 01 [0:00]: Intro (Gramophone Strings & Satirical Dialogue)
+  - Bar 09 [0:15]: Verse 1 (Mocking the Country Club)
+  - Bar 25 [0:45]: Hook 1 (Two Golf Planes in the Hangar)
+  - Bar 33 [1:00]: Verse 2 (Surreal Luxury Flex)
+  - Bar 49 [1:30]: Hook 2 (Maximum Chaos Stadium Chant)
+  - Bar 57 [1:45]: Outro (Twin Jet Turbines Spooling Up)
+
+STEM CHANNELS & BUS ROUTING:
+  Channel 01: 01_PunchyGrimeKick -> Master Bus
+  Channel 02: 02_RimClapStack -> Master Bus
+  Channel 03: 03_SyncopatedHats -> Master Bus
+  Channel 04: 04_BounceSynthBass -> Master Bus
+  Channel 05: 05_GramophoneChops -> Master Bus
+  Channel 06: 06_SatiricalStabs -> Master Bus
+  Channel 07: 07_TheatricalLeadVox -> Master Bus
+  Channel 08: 08_BritishAccentAdlibs -> Master Bus
+  Channel 09: 09_JetEngineTurbineFX -> Master Bus

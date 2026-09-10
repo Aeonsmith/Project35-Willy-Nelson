@@ -1,0 +1,26 @@
+PROJECT: Project 35: Willy Nelson
+TRACK 03: Chris Brown (King)
+ACT: Act I: The Descent & The Mirror
+BPM: 135 | KEY: F Minor | TIME SIG: 4/4
+SAMPLE RATE: 48000 Hz | BIT DEPTH: 24-bit
+TARGET HEADROOM: -6.0 dB True Peak
+TRANSITION OUT: Sudden stop into Clejan solo acoustic violin
+
+ARRANGEMENT MARKERS:
+  - Bar 01 [0:00]: Intro (Crown Stabs & Fanfare)
+  - Bar 09 [0:14]: Verse 1 (Illusion of the Throne)
+  - Bar 25 [0:42]: Hook 1 (King's Dilemma)
+  - Bar 33 [0:56]: Verse 2 (Burden of Royalty)
+  - Bar 49 [1:24]: Hook 2 (Anthemic Stack)
+  - Bar 57 [1:38]: Outro (Crown Fractures)
+
+STEM CHANNELS & BUS ROUTING:
+  Channel 01: 01_Kick_909 -> Master Bus
+  Channel 02: 02_LayeredSnare -> Master Bus
+  Channel 03: 03_RollingHats -> Master Bus
+  Channel 04: 04_Saturated808 -> Master Bus
+  Channel 05: 05_BrassStabs -> Master Bus
+  Channel 06: 06_GrandPianoChords -> Master Bus
+  Channel 07: 07_LeadVox -> Master Bus
+  Channel 08: 08_StereoBackingVox -> Master Bus
+  Channel 09: 09_CrownFX -> Master Bus

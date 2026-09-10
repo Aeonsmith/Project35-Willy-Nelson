@@ -1,0 +1,26 @@
+PROJECT: Project 35: Willy Nelson
+TRACK 02: Savage Ga$p
+ACT: Act I: The Descent & The Mirror
+BPM: 128 | KEY: D Minor | TIME SIG: 4/4
+SAMPLE RATE: 48000 Hz | BIT DEPTH: 24-bit
+TARGET HEADROOM: -6.0 dB True Peak
+TRANSITION OUT: Sub-drop decay into Chris Brown fanfare stabs
+
+ARRANGEMENT MARKERS:
+  - Bar 01 [0:00]: Intro (Hela Gate Chants)
+  - Bar 09 [0:15]: Verse 1 (Underworld Initiation)
+  - Bar 25 [0:45]: Hook 1 (Dark Ambrosia)
+  - Bar 33 [1:00]: Verse 2 (Gothic Cadence)
+  - Bar 49 [1:30]: Hook 2 (Full Drum Drop)
+  - Bar 57 [1:45]: Outro (Subterranean Descent)
+
+STEM CHANNELS & BUS ROUTING:
+  Channel 01: 01_Kick -> Master Bus
+  Channel 02: 02_Clap -> Master Bus
+  Channel 03: 03_DrillHats -> Master Bus
+  Channel 04: 04_Sub808 -> Master Bus
+  Channel 05: 05_GothicChoirChops -> Master Bus
+  Channel 06: 06_DistortedPluck -> Master Bus
+  Channel 07: 07_LeadVox -> Master Bus
+  Channel 08: 08_WhisperAdlibs -> Master Bus
+  Channel 09: 09_UnderworldFX -> Master Bus
