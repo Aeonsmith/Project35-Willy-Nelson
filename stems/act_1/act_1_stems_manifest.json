@@ -1,0 +1,57 @@
+{
+  "project": "Project 35: Willy Nelson",
+  "act": "Act I: The Descent & The Mirror",
+  "sample_rate_hz": 48000,
+  "bit_depth": 24,
+  "headroom_target_db": -6.0,
+  "tracks": [
+    {
+      "track_id": "01",
+      "track_name": "Resentful",
+      "bpm": 130,
+      "key": "C Minor",
+      "stems": [
+        {"name": "01_Resentful_Stem_808Sub.wav", "type": "Sub Bass", "target_freq_hz": 32.7, "pan": 0},
+        {"name": "01_Resentful_Stem_TrapDrums.wav", "type": "Drums", "target_freq_hz": 55.0, "pan": 0},
+        {"name": "01_Resentful_Stem_DarkPad.wav", "type": "Harmonic Bed", "chord_progression": "Cm - Ab - Fm - G", "pan": 0},
+        {"name": "01_Resentful_Stem_ReverseChords.wav", "type": "Atmosphere / Texture", "pan": 25}
+      ]
+    },
+    {
+      "track_id": "02",
+      "track_name": "Savage_Gasp",
+      "bpm": 128,
+      "key": "D Minor",
+      "stems": [
+        {"name": "02_SavageGasp_Stem_Sub808.wav", "type": "Sub Bass", "target_freq_hz": 36.7, "pan": 0},
+        {"name": "02_SavageGasp_Stem_DrillHats_Perc.wav", "type": "Drums", "pattern": "Syncopated Triplet Drill Skips", "pan": 15},
+        {"name": "02_SavageGasp_Stem_GothicChoir.wav", "type": "Choir / Chants", "chord_progression": "Dm - Bb - Gm - A7", "pan": 0},
+        {"name": "02_SavageGasp_Stem_DistortedPluck.wav", "type": "Lead Arp", "pan": -30}
+      ]
+    },
+    {
+      "track_id": "03",
+      "track_name": "Chris_Brown_King",
+      "bpm": 135,
+      "key": "F Minor",
+      "stems": [
+        {"name": "03_King_Stem_Saturated808.wav", "type": "Sub Bass", "target_freq_hz": 43.65, "pan": 0},
+        {"name": "03_King_Stem_StadiumKickSnare.wav", "type": "Drums", "transient_profile": "Hard Clipped 909", "pan": 0},
+        {"name": "03_King_Stem_BrassFanfare.wav", "type": "Horns", "voicing": "Trombones & Trumpets Octaves", "pan": 0},
+        {"name": "03_King_Stem_GrandPiano.wav", "type": "Harmonic Bed", "chord_progression": "Fm - Db - Bbm - C7", "pan": -10}
+      ]
+    },
+    {
+      "track_id": "04",
+      "track_name": "Clejan_11_Mirror",
+      "bpm": 132,
+      "key": "G Minor",
+      "stems": [
+        {"name": "04_Clejan_Stem_SoloViolin_MicL.wav", "type": "Solo Strings", "mic": "DPA 4099 Bridge Clip", "pan": -45},
+        {"name": "04_Clejan_Stem_SoloViolin_MicR.wav", "type": "Solo Strings", "mic": "Neumann KM184 Stereo Room", "pan": 45},
+        {"name": "04_Clejan_Stem_ViolinCadenza_Ostinato.wav", "type": "Lead String Ostinato", "technique": "Spiccato / Martelé", "pan": 0},
+        {"name": "04_Clejan_Stem_Glide808_TrapDrums.wav", "type": "Bass & Drums", "glide_time_ms": 65, "pan": 0}
+      ]
+    }
+  ]
+}
