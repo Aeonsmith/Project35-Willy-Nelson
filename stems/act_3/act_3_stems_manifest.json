@@ -1,0 +1,45 @@
+{
+  "project": "Project 35: Willy Nelson",
+  "act": "Act III: Archetypes & Absurdities",
+  "sample_rate_hz": 48000,
+  "bit_depth": 24,
+  "headroom_target_db": -6.0,
+  "tracks": [
+    {
+      "track_id": "08",
+      "track_name": "MJ",
+      "bpm": 124,
+      "key": "G Major",
+      "stems": [
+        {"name": "08_MJ_Stem_StadiumKickSnare.wav", "type": "Drums", "profile": "Acoustic Arena Kick + 808 Snare / Clap Stack", "pan": 0},
+        {"name": "08_MJ_Stem_WideStereoBass.wav", "type": "Bass", "target_freq_hz": 49.0, "pan": 0},
+        {"name": "08_MJ_Stem_BrassFanfareHorns.wav", "type": "Horns", "voicing": "3 Trumpets, 2 Trombones, French Horn Stabs", "pan": 0},
+        {"name": "08_MJ_Stem_AnthemicChoirChops.wav", "type": "Choir / Chants", "progression": "G - D - Em - C Anthemic Chants", "pan": 0}
+      ]
+    },
+    {
+      "track_id": "09",
+      "track_name": "Messi",
+      "bpm": 140,
+      "key": "A Minor",
+      "stems": [
+        {"name": "09_Messi_Stem_TightKickSnapSnare.wav", "type": "Drums (Kick/Snare)", "profile": "Tight Punch Kick + Wooden Rim Snap", "pan": 0},
+        {"name": "09_Messi_Stem_DrillHiHatSkips.wav", "type": "Percussion", "pattern": "UK Drill Syncopated Skips & Glitch Shakers", "pan": 20},
+        {"name": "09_Messi_Stem_Gliding808_Octaves.wav", "type": "Sub Bass", "glide_profile": "Rapid Pitch Slides (A1 -> A2 -> E1)", "pan": 0},
+        {"name": "09_Messi_Stem_KalimbaMarimbaLead.wav", "type": "Mallets / Leads", "tuning": "A Minor Pentatonic", "pan": -15}
+      ]
+    },
+    {
+      "track_id": "10",
+      "track_name": "Dont_play_golf_got_two_golf_planes",
+      "bpm": 126,
+      "key": "B-flat Major",
+      "stems": [
+        {"name": "10_DontPlayGolf_Stem_PunchyGrimeKick.wav", "type": "Drums", "profile": "Punchy Grime Kick + Slap Snare", "pan": 0},
+        {"name": "10_DontPlayGolf_Stem_BounceSynthBass.wav", "type": "Bass", "target_freq_hz": 58.27, "pan": 0},
+        {"name": "10_DontPlayGolf_Stem_GramophoneChops.wav", "type": "Vintage Strings", "filter": "Phonograph Bandpass (300Hz - 3.5kHz)", "pan": -25},
+        {"name": "10_DontPlayGolf_Stem_SatiricalBrassStabs.wav", "type": "Satirical Horns", "voicing": "Exaggerated High-Brass Fanfares", "pan": 25}
+      ]
+    }
+  ]
+}
