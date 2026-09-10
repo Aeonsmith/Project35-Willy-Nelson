@@ -1,0 +1,33 @@
+{
+  "project": "Project 35: Willy Nelson",
+  "subtitle": "9/11 Master Mixtape Rendition",
+  "phase": "Phase 3: Post-Production, Mixing & Mastering",
+  "sample_rate_hz": 48000,
+  "bit_depth": 24,
+  "mastering_standards": {
+    "peak_streaming_lufs": -8.0,
+    "high_energy_single_lufs": -7.5,
+    "organic_outro_lufs": -11.0,
+    "max_true_peak_dbfs": -0.5
+  },
+  "master_tracks": [
+    {"track_no": "01", "title": "Resentful", "act": "Act I", "bpm": 130, "key": "C Minor", "target_lufs": -8.0, "true_peak_db": -0.5, "output_file": "Track_01_Resentful_Master.wav"},
+    {"track_no": "02", "title": "Savage Ga$p", "act": "Act I", "bpm": 128, "key": "D Minor", "target_lufs": -8.0, "true_peak_db": -0.5, "output_file": "Track_02_Savage_Gasp_Master.wav"},
+    {"track_no": "03", "title": "Chris Brown (King)", "act": "Act I", "bpm": 135, "key": "F Minor", "target_lufs": -8.0, "true_peak_db": -0.5, "output_file": "Track_03_Chris_Brown_King_Master.wav"},
+    {"track_no": "04", "title": "Clejan 11 (mirror)", "act": "Act I", "bpm": 132, "key": "G Minor", "target_lufs": -8.0, "true_peak_db": -0.5, "output_file": "Track_04_Clejan_11_Mirror_Master.wav"},
+    {"track_no": "05", "title": "A.Rob (guy who sold me the PS5)", "act": "Act II", "bpm": 90, "key": "A Minor", "target_lufs": -8.0, "true_peak_db": -0.5, "output_file": "Track_05_A_Rob_PS5_Master.wav"},
+    {"track_no": "06", "title": "Token (general) {methane gas}", "act": "Act II", "bpm": 150, "key": "E Minor", "target_lufs": -7.5, "true_peak_db": -0.3, "output_file": "Track_06_Token_Methane_Gas_Master.wav"},
+    {"track_no": "07", "title": "Mac Lethal (heartbreak days)", "act": "Act II", "bpm": 86, "key": "G Minor to G Major", "target_lufs": -8.5, "true_peak_db": -0.5, "output_file": "Track_07_Mac_Lethal_Heartbreak_Days_Master.wav"},
+    {"track_no": "08", "title": "MJ", "act": "Act III", "bpm": 124, "key": "G Major", "target_lufs": -7.8, "true_peak_db": -0.5, "output_file": "Track_08_MJ_Master.wav"},
+    {"track_no": "09", "title": "Messi", "act": "Act III", "bpm": 140, "key": "A Minor", "target_lufs": -8.0, "true_peak_db": -0.5, "output_file": "Track_09_Messi_Master.wav"},
+    {"track_no": "10", "title": "(Don’t play golf) {got two golf planes}", "act": "Act III", "bpm": 126, "key": "B-flat Major", "target_lufs": -7.5, "true_peak_db": -0.3, "output_file": "Track_10_Dont_Play_Golf_Master.wav"},
+    {"track_no": "11", "title": "Armani white (winning my future)", "act": "Act IV", "bpm": 104, "key": "G Minor to G Major", "target_lufs": -7.5, "true_peak_db": -0.3, "output_file": "Track_11_Armani_White_Master.wav"},
+    {"track_no": "12", "title": "Outro: Jamaica", "act": "Act IV", "bpm": 76, "key": "G Major", "target_lufs": -11.0, "true_peak_db": -1.0, "output_file": "Track_12_Outro_Jamaica_Master.wav"}
+  ],
+  "continuous_album_master": {
+    "title": "Project 35: Willy Nelson (Deluxe Continuous Mix)",
+    "target_lufs": -8.2,
+    "true_peak_db": -0.3,
+    "output_file": "Project_35_Willy_Nelson_Deluxe_Continuous_Mix.wav"
+  }
+}
