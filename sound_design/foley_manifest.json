@@ -1,0 +1,117 @@
+{
+  "project": "Project 35: Willy Nelson",
+  "subtitle": "9/11 Master Mixtape Rendition",
+  "category": "Foley & Sample Sound Design Curation",
+  "sample_rate_hz": 48000,
+  "bit_depth": 24,
+  "assets": [
+    {
+      "id": "FOL-01",
+      "name": "PS5_Startup_SubDrop",
+      "track": "05_A.Rob_guy_who_sold_me_the_PS5",
+      "type": "UI / Sub Bass",
+      "description": "Crystalline 3-tone console startup chime with long resonance decaying into a pitched-down 35Hz sub-bass drop.",
+      "file_path": "sound_design/assets/PS5_Startup_SubDrop.wav",
+      "target_headroom_db": -6.0
+    },
+    {
+      "id": "FOL-02",
+      "name": "Car_Trunk_Slam_Footsteps",
+      "track": "05_A.Rob_guy_who_sold_me_the_PS5",
+      "type": "Environmental Foley",
+      "description": "Heavy acoustic automotive trunk latch latching shut with gravel parking lot footsteps.",
+      "file_path": "sound_design/assets/Car_Trunk_Slam_Footsteps.wav",
+      "target_headroom_db": -6.0
+    },
+    {
+      "id": "FOL-03",
+      "name": "Methane_Gas_Valve_Hiss",
+      "track": "06_Token_general_methane_gas",
+      "type": "Industrial Foley",
+      "description": "High-pressure industrial pneumatic gas valve release with metallic pipe resonance and rising alarm pitch.",
+      "file_path": "sound_design/assets/Methane_Gas_Valve_Hiss.wav",
+      "target_headroom_db": -6.0
+    },
+    {
+      "id": "FOL-04",
+      "name": "Subsonic_Implosion_Detonation",
+      "track": "06_to_07_Transition",
+      "type": "Transition Sound Design",
+      "description": "Low-frequency vacuum suction followed by a heavy clipped sub-impact and long hollow hall reverb decay.",
+      "file_path": "sound_design/assets/Subsonic_Implosion_Detonation.wav",
+      "target_headroom_db": -6.0
+    },
+    {
+      "id": "FOL-05",
+      "name": "Subterranean_Rain_Decay",
+      "track": "04_and_07_Clejan_and_MacLethal",
+      "type": "Atmospheric Bed",
+      "description": "Cold rain on asphalt with distant thunder roll and sewer drainage trickle.",
+      "file_path": "sound_design/assets/Subterranean_Rain_Decay.wav",
+      "target_headroom_db": -8.0
+    },
+    {
+      "id": "FOL-06",
+      "name": "Hardwood_Sneaker_Squeaks_Arena",
+      "track": "08_MJ",
+      "type": "Sports Foley",
+      "description": "Sharp rubber traction squeaks on polished hardwood basketball court layered with 20,000-seat crowd presence.",
+      "file_path": "sound_design/assets/Hardwood_Sneaker_Squeaks_Arena.wav",
+      "target_headroom_db": -6.0
+    },
+    {
+      "id": "FOL-07",
+      "name": "Referee_Whistle_Echo",
+      "track": "08_to_09_Transition",
+      "type": "Transition / Foley",
+      "description": "High-pitch metal pea whistle blast with stereo ping-pong tape delay panning 100% L to 100% R.",
+      "file_path": "sound_design/assets/Referee_Whistle_Echo.wav",
+      "target_headroom_db": -6.0
+    },
+    {
+      "id": "FOL-08",
+      "name": "Golf_Club_Titanium_Crack",
+      "track": "09_to_10_Transition",
+      "type": "Sports Foley",
+      "description": "Hyper-realistic driver impact on golf ball ('Crack!') cutting instantaneously to dry silence.",
+      "file_path": "sound_design/assets/Golf_Club_Titanium_Crack.wav",
+      "target_headroom_db": -4.0
+    },
+    {
+      "id": "FOL-09",
+      "name": "Twin_Jet_Turbine_Sweep",
+      "track": "10_to_11_Transition",
+      "type": "Supersonic Transition",
+      "description": "Dual jet engines spooling to maximum thrust, executing an upward high-pass filter sweep from 20Hz to 18kHz.",
+      "file_path": "sound_design/assets/Twin_Jet_Turbine_Sweep.wav",
+      "target_headroom_db": -6.0
+    },
+    {
+      "id": "FOL-10",
+      "name": "Tire_Squeal_Parallel_Parking",
+      "track": "11_Armani_white",
+      "type": "Action Foley",
+      "description": "High-friction rubber tire screech panning fast from left to center, locking sharply into a smooth stop.",
+      "file_path": "sound_design/assets/Tire_Squeal_Parallel_Parking.wav",
+      "target_headroom_db": -6.0
+    },
+    {
+      "id": "FOL-11",
+      "name": "Tape_Stop_Deceleration",
+      "track": "11_to_12_Transition",
+      "type": "Mechanical FX",
+      "description": "Analog reel-to-reel motor brake applying friction, pitching the entire audio spectrum down smoothly over 2.5s.",
+      "file_path": "sound_design/assets/Tape_Stop_Deceleration.wav",
+      "target_headroom_db": -6.0
+    },
+    {
+      "id": "FOL-12",
+      "name": "Caribbean_Ocean_Surf_Dub_Siren",
+      "track": "12_Outro_Jamaica",
+      "type": "Environmental & Dub FX",
+      "description": "Stereo binaural ocean waves breaking on sand, layered with authentic analog dub siren pulse and Space Echo feedback.",
+      "file_path": "sound_design/assets/Caribbean_Ocean_Surf_Dub_Siren.wav",
+      "target_headroom_db": -6.0
+    }
+  ]
+}
