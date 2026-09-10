@@ -3,7 +3,7 @@
 **Project Title:** Project 35: Willy Nelson (9/11 Master Mixtape Rendition)  
 **Project Lead:** Project Manager / Lead Producer  
 **Status:** In Progress — Phase 1 Active  
-**Overall Completion:** 35% (6 / 17 Tasks Completed)  
+**Overall Completion:** 41% (7 / 17 Tasks Completed)  
 **Target Global Release:** Week 16  
 **Last Updated:** September 10, 2026  
 
@@ -18,7 +18,7 @@
 
 ```
 OVERALL TIMELINE PROGRESSION
-[■■■■■■□□□□□□□□□□□□□□] 35% COMPLETE
+[■■■■■■■□□□□□□□□□□□□□] 41% COMPLETE
 Phase 1: Pre-Production     [COMPLETED]
 Phase 2: Tracking & Audio   [IN PROGRESS]
 Phase 3: Post-Production    [QUEUED]
@@ -78,14 +78,14 @@ Phase 4: Release & Promo    [QUEUED]
   * *Dependencies:* PRE-03
 
 * **[REC-04] Act IV Slap Bass & Reggae One-Drop Recording**
-  * *Status:* IN PROGRESS
+  * *Status:* COMPLETED (8 24-bit/48kHz multi-track audio stems rendered in /stems/act_4/audio & act_4_stems_manifest.json)
   * *Owner:* Session Musician
   * *Target Timeline:* Weeks 5–6
   * *Deliverable:* Fender P-Bass, B3 Organ, & steelpan stems
   * *Dependencies:* PRE-03
 
 * **[REC-05] Final Lead & Feature Vocal Tracking**
-  * *Status:* QUEUED
+  * *Status:* IN PROGRESS
   * *Owner:* Vocal Producer / Engineer
   * *Target Timeline:* Weeks 5–6
   * *Deliverable:* Edited & tuned dry lead vocals for all 12 tracks
