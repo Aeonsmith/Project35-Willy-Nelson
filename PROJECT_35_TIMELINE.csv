@@ -10,9 +10,9 @@ Phase 2: Tracking & Recording,REC-05,Final Lead & Feature Vocal Tracking,Weeks 5
 Phase 3: Post-Production,POST-01,Stem Balancing & Dynamic Calibration,Week 7,Mix sessions with EQ pocketing & compression,Mixing Engineer,Completed,REC-05
 Phase 3: Post-Production,POST-02,Gapless Inter-Act Transition Automation,Weeks 7-8,Continuous transition renders (04->05, 07->08, 10->11, 11->12),Mixing Engineer,Completed,POST-01
 Phase 3: Post-Production,POST-03,Mastering & LUFS Calibration,Week 8,DDP & 24-bit/48kHz Master WAV files (Standard & Deluxe mix),Mastering Engineer,Completed,POST-02
-Phase 4: Distribution & Marketing,MKT-01,Metadata & ISRC Pre-allocation,Week 8,Persistent ISRC registry & distributor delivery,Project Manager,Pending,POST-03
-Phase 4: Distribution & Marketing,MKT-02,Subterranean Teaser Campaign Launch,Weeks 9-10,15s video teasers & encrypted landing page,Creative Director,Pending,MKT-01
-Phase 4: Distribution & Marketing,MKT-03,Lead Single Drop (Armani White),Week 12,DSP release & official music video premiere,Marketing Lead,Pending,MKT-02
-Phase 4: Distribution & Marketing,MKT-04,Satirical Single Drop (Don't Play Golf),Week 14,DSP release & satirical video campaign,Marketing Lead,Pending,MKT-03
-Phase 4: Distribution & Marketing,MKT-05,Full Mixtape Global Release & 42-Min Visualizer,Week 16,12-track album drop & continuous YouTube premiere,Distribution Lead,Pending,MKT-04
-Phase 4: Distribution & Marketing,MKT-06,Jamaica Dub Session & Production Breakdown,Weeks 18-20,Extended dub release & studio breakdown featurette,Content Producer,Pending,MKT-05
+Phase 4: Distribution & Marketing,MKT-01,Metadata & ISRC Pre-allocation,Week 8,Persistent ISRC registry & distributor delivery,Project Manager,Completed,POST-03
+Phase 4: Distribution & Marketing,MKT-02,Subterranean Teaser Campaign Launch,Weeks 9-10,15s video teasers & encrypted landing page,Creative Director,Completed,MKT-01
+Phase 4: Distribution & Marketing,MKT-03,Lead Single Drop (Armani White),Week 12,DSP release & official music video premiere,Marketing Lead,Completed,MKT-02
+Phase 4: Distribution & Marketing,MKT-04,Satirical Single Drop (Don't Play Golf),Week 14,DSP release & satirical video campaign,Marketing Lead,Completed,MKT-03
+Phase 4: Distribution & Marketing,MKT-05,Full Mixtape Global Release & 42-Min Visualizer,Week 16,12-track album drop & continuous YouTube premiere,Distribution Lead,Completed,MKT-04
+Phase 4: Distribution & Marketing,MKT-06,Jamaica Dub Session & Production Breakdown,Weeks 18-20,Extended dub release & studio breakdown featurette,Content Producer,Completed,MKT-05

@@ -1,0 +1,135 @@
+{
+  "album_title": "Project 35: Willy Nelson",
+  "album_subtitle": "9/11 Master Mixtape Rendition",
+  "artist": "Project 35 / Willy Nelson Collective",
+  "upc": "880993591101",
+  "catalog_number": "P35-2026-0911",
+  "release_date": "2026-10-30",
+  "primary_genre": "Hip-Hop / Rap",
+  "secondary_genre": "Experimental / Underground",
+  "record_label": "Project 35 Underground Recordings",
+  "copyright": "(C) 2026 Project 35 Underground Recordings",
+  "publishing": "(P) 2026 Double G / Hela Music Publishing",
+  "tracks": [
+    {
+      "track_number": 1,
+      "title": "Resentful",
+      "isrc": "USP352600001",
+      "duration": "3:05",
+      "explicit": true,
+      "composers": ["Project 35", "Double G", "Hela"],
+      "producers": ["Lead Producer", "Sound Designer"],
+      "featured_artists": ["Resentvul"]
+    },
+    {
+      "track_number": 2,
+      "title": "Savage Ga$p",
+      "isrc": "USP352600002",
+      "duration": "3:15",
+      "explicit": true,
+      "composers": ["Project 35", "Savage Ga$p"],
+      "producers": ["Lead Producer"],
+      "featured_artists": ["Savage Ga$p"]
+    },
+    {
+      "track_number": 3,
+      "title": "Chris Brown (King)",
+      "isrc": "USP352600003",
+      "duration": "3:30",
+      "explicit": false,
+      "composers": ["Project 35", "Chris Brown"],
+      "producers": ["Lead Producer", "Brass Arranger"],
+      "featured_artists": ["Chris Brown (Honorary Archetype)"]
+    },
+    {
+      "track_number": 4,
+      "title": "Clejan 11 (mirror)",
+      "isrc": "USP352600004",
+      "duration": "2:50",
+      "explicit": false,
+      "composers": ["Project 35", "Clejan"],
+      "producers": ["Clejan", "Lead Producer"],
+      "featured_artists": ["Clejan"]
+    },
+    {
+      "track_number": 5,
+      "title": "A.Rob (guy who sold me the PS5)",
+      "isrc": "USP352600005",
+      "duration": "3:20",
+      "explicit": true,
+      "composers": ["Project 35", "A.Rob"],
+      "producers": ["Recording Engineer", "Lead Producer"],
+      "featured_artists": ["A.Rob"]
+    },
+    {
+      "track_number": 6,
+      "title": "Token (general) {methane gas}",
+      "isrc": "USP352600006",
+      "duration": "3:00",
+      "explicit": true,
+      "composers": ["Project 35", "Token"],
+      "producers": ["Lead Producer"],
+      "featured_artists": ["Token"]
+    },
+    {
+      "track_number": 7,
+      "title": "Mac Lethal (heartbreak days)",
+      "isrc": "USP352600007",
+      "duration": "3:40",
+      "explicit": false,
+      "composers": ["Project 35", "Mac Lethal"],
+      "producers": ["Lead Producer", "Recording Engineer"],
+      "featured_artists": ["Mac Lethal"]
+    },
+    {
+      "track_number": 8,
+      "title": "MJ",
+      "isrc": "USP352600008",
+      "duration": "3:30",
+      "explicit": false,
+      "composers": ["Project 35", "Double G"],
+      "producers": ["Brass Arranger", "Lead Producer"],
+      "featured_artists": ["Michael Jackson (Tribute Archetype)"]
+    },
+    {
+      "track_number": 9,
+      "title": "Messi",
+      "isrc": "USP352600009",
+      "duration": "3:10",
+      "explicit": false,
+      "composers": ["Project 35", "Double G"],
+      "producers": ["Lead Producer"],
+      "featured_artists": ["Gunna", "Kodak Black (Thematic Conscience Tribute)"]
+    },
+    {
+      "track_number": 10,
+      "title": "(Don’t play golf) {got two golf planes}",
+      "isrc": "USP352600010",
+      "duration": "3:25",
+      "explicit": true,
+      "composers": ["Project 35", "Unknown P", "Tim Hawkins", "Lola Young"],
+      "producers": ["Lead Producer", "Brass Arranger"],
+      "featured_artists": ["Unknown P", "Tim Hawkins"]
+    },
+    {
+      "track_number": 11,
+      "title": "Armani white (winning my future) {parallel parking} <starving the facts>",
+      "isrc": "USP352600011",
+      "duration": "2:45",
+      "explicit": false,
+      "composers": ["Project 35", "Armani White"],
+      "producers": ["Lead Producer", "Session Musician"],
+      "featured_artists": ["Armani White"]
+    },
+    {
+      "track_number": 12,
+      "title": "Outro: Jamaica",
+      "isrc": "USP352600012",
+      "duration": "3:00",
+      "explicit": false,
+      "composers": ["Project 35", "Hela", "Double G"],
+      "producers": ["Lead Producer", "Roots Dub Team"],
+      "featured_artists": ["Port Antonio Roots Ensemble"]
+    }
+  ]
+}
